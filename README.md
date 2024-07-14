@@ -12,7 +12,7 @@ This repository contains materials for the Python programming course designed by
 ## Course Modules
 | Module | Topics Covered |
 | ------ | --------------- |
-| **Introduction to Python** | - Why Program? <br> - Hardware Architecture <br> - Python as a Language <br> - Elements of Python |
+| **Introduction to Python** | - Why Program? <br> - Hardware Architecture <br> - Python as a Language <br> - Elements of Python  <br> - Syntax of python|
 | **Variables and Expressions** | - Variables, Expressions, and Statements <br> - Intermediate Expressions |
 | **Conditional Execution** | - Conditional Execution <br> - More Conditional Structures |
 | **Functions** | - Python Functions <br> - Build your own Functions |
